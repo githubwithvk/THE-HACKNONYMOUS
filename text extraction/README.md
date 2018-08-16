@@ -1,4 +1,4 @@
-# NLP-image-to-text
+# TEXT EXTRACTION
 
 Code to extract text from images
 
@@ -30,7 +30,7 @@ Some sample inputs and outputs:
 
 Input:
 
-![Don't watch the clock; Do what it does. keep going. Sam Levenson](https://github.com/ayesha92ahmad/NLP-image-to-text/blob/master/data/test1.jpg)
+![Don't watch the clock; Do what it does. keep going. Sam Levenson](https://github.com/techgeek/text extraction/data/test1.jpg)
 
 Output:
 ```
@@ -51,7 +51,7 @@ SAM LEVENSON
 ```
 Input:
 
-![How to recognize text from image with Python OpenCv OCR?](https://github.com/ayesha92ahmad/NLP-image-to-text/blob/master/data/test1.png)
+![How to recognize text from image with Python OpenCv OCR?](https://github.com/techgeek/text extraction/data/test1.jpg)
 
 Output:
 ```
@@ -60,7 +60,7 @@ How to recognize text from image with Python OpenCv OCR ?
 
 Input:
 
-![A negative mind will never give you a positive life.](https://github.com/ayesha92ahmad/NLP-image-to-text/blob/master/data/test2.jpg)
+![A negative mind will never give you a positive life.](https://github.com/techgeek/text extraction/data/test1.jpg)
 
 Output:
 ```
